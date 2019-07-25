@@ -1,0 +1,25 @@
+{
+  "name": "lern-js",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cuberian/lernJS.git"
+  },
+  "author": "Igor Krupkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cuberian/lernJS/issues"
+  },
+  "homepage": "https://github.com/Cuberian/lernJS#readme",
+  "dependencies": {
+    "node": "^12.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
